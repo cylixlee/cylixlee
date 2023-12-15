@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Cylix Lee 👋
 
 - 🇨🇳 Mainly use Simplified Chinese
 - 👨‍🎓 Undergraduate
