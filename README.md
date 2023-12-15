@@ -20,7 +20,7 @@
 - ✨ 喜欢摸鱼写一点玩具项目
 - 📫 随时可以联系我 cylix.lee@outlook.com
 - 😂 原先的账号 `cylix-lee` 因为我没保存 2FA 恢复码无法找回了
-- 🌱 继续学习ing...
+- 🌱 持续学习ing...
 
 <!--
 **cylixlee/cylixlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
