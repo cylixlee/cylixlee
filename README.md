@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+- 🇨🇳 Mainly use Simplified Chinese
+- 👨‍🎓 Undergraduate
+- 🥰 Fascinated by.NET/Java/Flutter and many other techniques, especially those cross-platform ones
+- 🎮 Curious about game developing and reverse engineering them
+- ✨ Like to write some interesting toy ptojects when available
+- 📫 Be free to contact me at cylix.lee@outlook.com
+- 😂 Account `cylix-lee` is lost because I didn't save 2FA's recovery code
+- 🌱 Still learning
+
+---
+
+### 你好！这里是 Cylix Lee 👋
+
+- 🇨🇳 主要使用中文
+- 👨‍🎓 在读学生
+- 🥰 对 .NET/Java/Flutter 等感兴趣，尤其跨平台技术
+- 🎮 对于游戏开发及其逆向很好奇
+- ✨ 喜欢摸鱼写一点玩具项目
+- 📫 随时可以联系我 cylix.lee@outlook.com
+- 😂 原先的账号 `cylix-lee` 因为我没保存 2FA恢复码无法找回了
+- 🌱 继续学习ing...
+
 <!--
 **cylixlee/cylixlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
