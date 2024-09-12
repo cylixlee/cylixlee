@@ -2,7 +2,7 @@
 
 - 🇨🇳 Mainly use Simplified Chinese
 - 👨‍🎓 Undergraduate
-- 🥰 Fascinated by Rust/.NET/Java/Flutter and many other techniques, especially those cross-platform ones
+- 🥰 Fascinated by Go/Rust/.NET/Java/Flutter and many other techniques, especially those cross-platform ones
 - 🎮 Curious about crafting compilers and interpreters/VMs, game developing and reverse engineering them
 - ✨ Like to write some interesting toy projects when not busy
 - 📫 Be free to contact me at cylix.lee@outlook.com
@@ -15,7 +15,7 @@
 
 - 🇨🇳 主要使用中文
 - 👨‍🎓 在读学生
-- 🥰 对 Rust/.NET/Java/Flutter 等感兴趣，尤其跨平台技术
+- 🥰 对 Go/Rust/.NET/Java/Flutter 等感兴趣，尤其跨平台技术
 - 🎮 对于编译器与解释器/虚拟机开发、游戏开发及其逆向很好奇
 - ✨ 喜欢摸鱼写一点玩具项目
 - 📫 随时可以联系我 cylix.lee@outlook.com
