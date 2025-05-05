@@ -1,8 +1,10 @@
 # Cylix Lee
 Cross-platform technologies enthusiast, `C#`/`Rust`/`Go`/`Python` programmer.
 
-## Organizations
-Here're some organizations I've involved:
-| Organization                                                            | Description                                                              | Role  |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------|-------|
-| [Cylix's Reproduction of Papers](https://github.com/cylix-reproduction) | Forked, slightly modified or created-from-scratch reproduction of papers | Owner |
+![Cylix Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=cylixlee&show_icons=true&include_all_commits=true)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cylixlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=cylixlee)
