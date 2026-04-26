@@ -8,7 +8,7 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
 ![Taskfile](https://img.shields.io/badge/Taskfile-29BEB0?logo=task&logoColor=white)
 
-Cross-platform technologies enthusiast, `Go`/ `Python` / `C#` / `Rust` programmer.
+Cross-platform technologies enthusiast, `Go` / `Python` / `C#` / `Rust` programmer.
 
 ## Organizations
 
