@@ -1,5 +1,5 @@
 # Cylix Lee
-[![OpenToWork](https://img.shields.io/badge/OpenToWork-8A2BE2)](mailto:cylix.lee@outlook.com)
+[![EmailMe](https://img.shields.io/badge/OpenToWork-Email_me-8A2BE2)](mailto:cylix.lee@outlook.com)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
